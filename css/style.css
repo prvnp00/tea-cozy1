@@ -40,7 +40,7 @@ body {
     align-items: center;
     margin: 0 auto;
     flex-grow: 1;
-    background-image: url("/img-mission-background.jpg");
+    background-image: url("img-mission-background.jpg");
 }
 
 .text-over {
