@@ -40,7 +40,7 @@ body {
     align-items: center;
     margin: 0 auto;
     flex-grow: 1;
-    background-image: url("/images/img-mission-background.jpg");
+    background-image: url("/img-mission-background.jpg");
 }
 
 .text-over {
@@ -81,7 +81,7 @@ body {
 
 .location-container {
     height: 500px;
-    background-image: url("/images/img-locations-background.jpg");
+    background-image: url("/img-locations-background.jpg");
     background-repeat: no-repeat;
     width: 1200px;
     margin: 40px auto auto auto;
